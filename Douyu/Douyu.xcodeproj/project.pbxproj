@@ -16,6 +16,7 @@
 		50082C6C2370527800422A45 /* DouyuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50082C6B2370527800422A45 /* DouyuUITests.swift */; };
 		50082C7B237054B400422A45 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50082C79237054B400422A45 /* TestViewController.swift */; };
 		50082C7C237054B400422A45 /* TestViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 50082C7A237054B400422A45 /* TestViewController.xib */; };
+		50082C7E2370585200422A45 /* hahahaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50082C7D2370585200422A45 /* hahahaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		50082C6D2370527800422A45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		50082C79237054B400422A45 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		50082C7A237054B400422A45 /* TestViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TestViewController.xib; sourceTree = "<group>"; };
+		50082C7D2370585200422A45 /* hahahaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hahahaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				50082C4B2370527700422A45 /* AppDelegate.swift */,
 				50082C4D2370527700422A45 /* ViewController.swift */,
 				50082C79237054B400422A45 /* TestViewController.swift */,
+				50082C7D2370585200422A45 /* hahahaViewController.swift */,
 				50082C7A237054B400422A45 /* TestViewController.xib */,
 				50082C4F2370527700422A45 /* Main.storyboard */,
 				50082C522370527800422A45 /* Assets.xcassets */,
@@ -266,6 +269,7 @@
 				50082C4E2370527700422A45 /* ViewController.swift in Sources */,
 				50082C7B237054B400422A45 /* TestViewController.swift in Sources */,
 				50082C4C2370527700422A45 /* AppDelegate.swift in Sources */,
+				50082C7E2370585200422A45 /* hahahaViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

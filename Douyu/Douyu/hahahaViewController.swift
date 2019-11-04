@@ -1,5 +1,5 @@
 //
-//  TestViewController.swift
+//  hahahaViewController.swift
 //  Douyu
 //
 //  Created by Max on 2019/11/4.
@@ -8,15 +8,14 @@
 
 import UIKit
 
-class TestViewController: UIViewController {
+class hahahaViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        view.backgroundColor = UIColor.red
         // Do any additional setup after loading the view.
     }
-
+    
 
     /*
     // MARK: - Navigation
